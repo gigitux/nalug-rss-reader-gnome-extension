@@ -1,0 +1,8 @@
+{
+  "name": "NaLUG RSS Reader",
+  "description": "Read NaLUG news via RSS",
+  "uuid": "nalugrssreader@luigitesch.io",
+  "shell-version": [
+    "45"
+  ]
+}

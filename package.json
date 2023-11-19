@@ -1,0 +1,16 @@
+{
+    "name": "nalugrssreader",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Read NaLUG news via RSS",
+    "author": "Luigi Teschio",
+    "license": "MIT",
+    "devDependencies": {
+        "eslint": "^8.54.0",
+        "prettier": "^3.1.0"
+    },
+    "scripts": {
+        "lint": "eslint .",
+        "format": "prettier --write ."
+    }
+}
