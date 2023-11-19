@@ -6,6 +6,9 @@ NALug RSS Reader is a Gnome Shell extension that adds an icon in the systray to 
 
 This extension is very simple and it used as POC for a workshop for a NALug meeting.
 
+https://github.com/gigitux/nalug-rss-reader-gnome-extension/assets/4463174/e9e76830-cc09-4f3c-b6a4-0790f42790bd
+
+
 ## Installation
 
 To install the extension, follow these steps:
@@ -51,4 +54,3 @@ If you encounter any issues or have suggestions, please open an issue on the [is
 ## License
 
 This Gnome extension is licensed under the MIT license - see the [LICENSE.md](LICENSE.md) file for details.
-
